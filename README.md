@@ -1,3 +1,5 @@
+大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问[dtm](https://github.com/dtm-labs/dtf)。中间给大家带来的不便，敬请谅解！
+
 ![license](https://img.shields.io/github/license/dtm-labs/dtm)
 ![Build Status](https://github.com/dtm-labs/dtm/actions/workflows/tests.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/dtm-labs/dtm/branch/main/graph/badge.svg?token=UKKEYQLP3F)](https://codecov.io/gh/dtm-labs/dtm)
